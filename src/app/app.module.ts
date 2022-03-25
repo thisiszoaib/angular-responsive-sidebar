@@ -9,9 +9,14 @@ import { MatSidenavModule } from '@angular/material/sidenav';
 import { MatButtonModule } from '@angular/material/button';
 import { MatIconModule } from '@angular/material/icon';
 import { MatDividerModule } from '@angular/material/divider';
+import { HomeComponent } from './pages/home/home.component';
+import { ProfileComponent } from './pages/profile/profile.component';
+import { AboutComponent } from './pages/about/about.component';
+import { HelpComponent } from './pages/help/help.component';
+import { NotFoundComponent } from './pages/not-found/not-found.component';
 
 @NgModule({
-  declarations: [AppComponent],
+  declarations: [AppComponent, HomeComponent, ProfileComponent, AboutComponent, HelpComponent, NotFoundComponent],
   imports: [
     BrowserModule,
     AppRoutingModule,

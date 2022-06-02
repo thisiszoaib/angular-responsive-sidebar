@@ -2,16 +2,8 @@
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 11.2.0.
 
+[![](./preview.gif)](https://www.youtube.com/watch?v=4CYuOiRHHA8&list=LL&index=1&t=40s&ab_channel=ZoaibKhan)
 
-![](./preview.mp4)
-
-
-<video width="320" height="240" controls>
-  <source src="preview.mp4" type="video/mp4">
-</video>
-
-
-[![Everything Is AWESOME](http://i.imgur.com/Ot5DWAW.png)](https://youtu.be/StTqXEQ2l-Y?t=35s "Everything Is AWESOME")
 
 ## Development server
 

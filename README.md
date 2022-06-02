@@ -2,7 +2,7 @@
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 11.2.0.
 
-[![](./preview.gif)](https://www.youtube.com/watch?v=4CYuOiRHHA8&list=LL&index=1&t=40s&ab_channel=ZoaibKhan)
+[![](./src/assets/preview.gif)](https://www.youtube.com/watch?v=4CYuOiRHHA8&list=LL&index=1&t=40s&ab_channel=ZoaibKhan)
 
 
 ## Development server

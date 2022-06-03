@@ -2,6 +2,11 @@
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 11.2.0.
 
+![IMAGE ALT TEXT](./src/assets/preview.gif)
+
+Watch the tutorial step by step [here](https://www.youtube.com/watch?v=4CYuOiRHHA8&ab_channel=ZoaibKhan).
+
+
 ## Development server
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.

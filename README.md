@@ -2,7 +2,9 @@
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 11.2.0.
 
-[![IMAGE ALT TEXT](./src/assets/preview.gif)](https://www.youtube.com/watch?v=4CYuOiRHHA8&ab_channel=ZoaibKhan "Create a Responsive Sidebar Menu with Angular Material")
+![IMAGE ALT TEXT](./src/assets/preview.gif)
+
+Watch the tutorial step by step [here](https://www.youtube.com/watch?v=4CYuOiRHHA8&ab_channel=ZoaibKhan).
 
 
 ## Development server
